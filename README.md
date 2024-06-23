@@ -1,5 +1,6 @@
 # Tech Stack:
    - React.js
+   - TypeScript
    - Express.js
    - MongoDB (Mongoose as ODM)
    - TanStackQuery
