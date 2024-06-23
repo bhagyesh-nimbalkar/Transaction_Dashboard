@@ -4,6 +4,7 @@
    - Express.js
    - MongoDB (Mongoose as ODM)
    - TanStackQuery
+   - ShadCN ui
    - TailwindCss
    - Recharts.js
 
