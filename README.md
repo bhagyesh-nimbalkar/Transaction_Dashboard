@@ -1,0 +1,14 @@
+# Tech Stack:
+   - React.js
+   - Express.js
+   - MongoDB (Mongoose as ODM)
+   - TanStackQuery
+   - TailwindCss
+   - Recharts.js
+
+# To Download all dependencies run:
+    npm install 
+# To run Server:
+    npm run start
+# To run Client:
+    npm run dev
